@@ -5,6 +5,10 @@ class Program
 {
     static void Main()
     {
+
+        //Exercícios Práticos - Fundamentos C# da RocketSeat
+        //Continuando o aprendizado e evoluindo a cada dia
+        
         //Exercício 1
         Console.WriteLine("Digite seu nome:");
         string nome = Console.ReadLine();
